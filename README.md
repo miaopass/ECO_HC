@@ -1,5 +1,11 @@
 #ECO_HC
+2018/12/27修改：之前的版本CN特征的文件路径是我自己电脑的路径。虽然在linux下可以正常运行，因为会读取一个空的cn矩阵，但是在windows下就会报错。
+另外删除了两个没有用上的包。
+目前只要安装了cmake和opencv的linux系统电脑都可以运行。
+windows下，暂未测试。
 
+分割线
+-----------------------------------------------------------------------------
 ECO原作者github地址：https://github.com/martin-danelljan/ECO,源代码为matlab
 
 此代码是在https://github.com/nicewsyly/ECO下进行修改。
