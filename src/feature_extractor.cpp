@@ -40,7 +40,7 @@ void feature_extractor::init(const eco_params& params)
 	if (useCnFeature)
 	{
 		ifstream infile; 
-		infile.open("/home/miaopass/d.txt");
+		infile.open("./CNnorm.txt");
 		string s;
 		string delim = "\t";
 		vector<string> test ;
