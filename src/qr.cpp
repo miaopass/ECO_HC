@@ -1,12 +1,7 @@
 using namespace std;
 #include "opencv2/opencv.hpp"
-#include "opencv2/gpu/gpu.hpp"
 #include "qr.h"
 #include <vector>
- extern"C"  
-{  
-    #include<cblas.h>     
-} 
 
 int sunt = 0;
 float enengy(cv::Mat a ,cv::Mat b)
