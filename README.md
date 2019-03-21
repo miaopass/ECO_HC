@@ -8,9 +8,9 @@ windows下，暂未测试。
 
 分割线
 -----------------------------------------------------------------------------
-ECO原作者github地址：https://github.com/martin-danelljan/ECO,源代码为matlab
+ECO原作者github地址：https://github.com/martin-danelljan/ECO  源代码为matlab
 
-此代码是在https://github.com/nicewsyly/ECO下进行修改。
+此代码是在https://github.com/nicewsyly/ECO  下进行修改。
 该作者用c++，opencv复现了ECO的代码，但是其中有部分错误，导致实际跟踪效果较差。
 
 本人修改了其中的错误，主要有eco_sample_update.cpp下的大量错误代码，以及部分小错误。
