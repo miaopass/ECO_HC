@@ -20,7 +20,7 @@ ECO原作者github地址：https://github.com/martin-danelljan/ECO,源代码为m
 代码中部分参数不可调（因为未复现完）。
 为了方便使用去掉了caffe的部分，想要有cnn特征的可以联系email：21710134@zju.edu.cn。
 
-如何使用次代码：
+如何使用代码：
 
 sudo apt-get install cmake
 
